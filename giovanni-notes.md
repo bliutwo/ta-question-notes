@@ -16,6 +16,57 @@
   - **Caveat**: NOT quite simple frequentist version, where you count the number of successes and divide by total number of data
     - this is only the posterior part, where we use this (new) data (Abbey) to update beliefs
 
+- Calculating P(rain) and P(mold) are the same:
+  - Success / failure = storm / no storm (0/1)
+  - Success / failure = mold / no mold (yes / no)
+
+
+### First visit, before DiDi's questions:
+
+- So it seems like we're supposed to use equations on the slides, **Bayesian Updating to Website.pdf**.
+
+- Giovanni specified that We want to update with the specific equation(s) on slide **"Your Posterior Is the Product"**.
+   
+- Giovanni also pointed me towards using the following:
+  - **Steph Curry xls (excel spreadsheet that we looked at yesterday)**
+  - **"Freemark Abbey Historical.pdf"**
+
+- For "Freemark Abbey Historical.pdf", he said something specific: we want to use the "successes and failures" per each year to also update the probability.
+
+## Misc. notes
+
+### First visit
+
+Maybe helpful. I wrote down
+
+```
+update with posterior
+
+binomial
+```
+
+and next page
+
+```
+"prior distribution -> updating formula"
+
+and
+
+"use abbey historical to update distribution"
+```
+
+and earlier, about the Bayesian Updating,
+
+```
+xls
+
+talk to interviewee for fancier updating
+
+"we're giving the interviewee discretion for fancier extra credit stuff"
+```
+
+### Second visit
+
 - Word for word notes:
 
 ```
@@ -61,49 +112,3 @@ use prior, then have new
 
 
 
-- Calculating P(rain) and P(mold) are the same:
-  - Success / failure = storm / no storm (0/1)
-  - Success / failure = mold / no mold (yes / no)
-
-
-### First visit, before DiDi's questions:
-
-- So it seems like we're supposed to use equations on the slides, **Bayesian Updating to Website.pdf**.
-
-- Giovanni specified that We want to update with the specific equation(s) on slide **"Your Posterior Is the Product"**.
-   
-- Giovanni also pointed me towards using the following:
-  - **Steph Curry xls (excel spreadsheet that we looked at yesterday)**
-  - **"Freemark Abbey Historical.pdf"**
-
-- For "Freemark Abbey Historical.pdf", he said something specific: we want to use the "successes and failures" per each year to also update the probability.
-
-## Misc. notes
-
-Maybe helpful. I wrote down
-
-```
-update with posterior
-
-binomial
-```
-
-and next page
-
-```
-"prior distribution -> updating formula"
-
-and
-
-"use abbey historical to update distribution"
-```
-
-and earlier, about the Bayesian Updating,
-
-```
-xls
-
-talk to interviewee for fancier updating
-
-"we're giving the interviewee discretion for fancier extra credit stuff"
-```
