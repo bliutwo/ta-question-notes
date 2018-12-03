@@ -9,14 +9,14 @@
 - Giovanni specified that We want to update with the specific equation(s) on slide **"Your Posterior Is the Product"**.
    
 - Giovanni also pointed me towards using the following:
-  - Steph Curry xls (excel spreadsheet that we looked at yesterday)
-  - "Freemark Abbey Historical.pdf"
+  - **Steph Curry xls (excel spreadsheet that we looked at yesterday)**
+  - **"Freemark Abbey Historical.pdf"**
 
 - For "Freemark Abbey Historical.pdf", he said something specific: we want to use the "successes and failures" per each year to also update the probability.
 
 ## Misc. notes
 
-I wrote down
+Maybe helpful. I wrote down
 
 ```
 update with posterior
