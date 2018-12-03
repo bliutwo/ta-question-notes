@@ -1,17 +1,20 @@
 # Concerning the "Updated Probability"
 
-So although I'm a little lost here, Giovanni pointed me to specific things. Hopefully me sending this to you all will help the brains go to the right direction:
+**Caveat**: So although I'm a little lost here, Giovanni pointed me to specific things. Hopefully me sending this to you all will help the brains go to the right direction:
 
-So it seems like we're supposed to use equations on the slides, **Bayesian Updating to Website.pdf**.
+## Big takeaways
 
-Giovanni specified that We want to update with the specific equation(s) on slide **"Your Posterior Is the Product"**.
+- So it seems like we're supposed to use equations on the slides, **Bayesian Updating to Website.pdf**.
+
+- Giovanni specified that We want to update with the specific equation(s) on slide **"Your Posterior Is the Product"**.
    
-Giovanni also pointed me towards using the following:
+- Giovanni also pointed me towards using the following:
+  - Steph Curry xls (excel spreadsheet that we looked at yesterday)
+  - "Freemark Abbey Historical.pdf"
 
-- Steph Curry xls (excel spreadsheet that we looked at yesterday)
-- "Freemark Abbey Historical.pdf"
+- For "Freemark Abbey Historical.pdf", he said something specific: we want to use the "successes and failures" per each year to also update the probability.
 
-For "Freemark Abbey Historical.pdf", he said something specific: we want to use the "successes and failures" per each year to also update the probability.
+## Misc. notes
 
 I wrote down
 
