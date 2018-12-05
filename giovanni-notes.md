@@ -1,5 +1,11 @@
 # Wednesday Office Hours
 
+## New question:
+
+- Formula / how to calculate the following?
+  - gamma (risk-aversion coefficient) -> CE
+  - P(event) -> CE
+
 ## Our questions:
 
 ### Concerning the Third Uncertainty
