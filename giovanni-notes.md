@@ -4,11 +4,19 @@
 
 ### Concerning the Third Uncertainty
 
+**His answer**: He showed me what sensitivity analysis is, and there's a specific process for it, and what it means:
+- It's basically plotting probabilities of your event (x-axis) to certain equivalents ($, y-axis)
+- He said we should select more than three variables/events (rain, mold, accuracy of detector, etc.) and "hammer out" tables in excel: 
+  - That is, find out **which variables/events** are "the most interesting":
+    - Which variables / events change what the decision becomes, the most?
+- Possible follow up question (that we might already know the answer to): How exactly do you know the CE given *P(event (rain, mold, etc.))*?
+
 - We know that Rain and Mold are two of the three uncertainties, but we're not sure what the third one is:
   - Our guess is that **the varying accuracy of the detector** is the third uncertainty.
   - If so, or whatever the third uncertainty is, how do we do sensitivity analysis on this third sensitivity?
   - Motivation: Information about this third uncertainty would change the tree
 
+**His answer:** Figure 12.10 is exactly what we're looking for.
 ### Concerning "plot symmetrically around zero"
 - What do the words **"plot symmetrically around zero"** mean? Refer to graph in book, *Figure 12.11*.
 - Is the formula on 93/110 on "UtilityProbabilisticDominancetoWebsite" the one we want to use to calculate this sensitivity?
