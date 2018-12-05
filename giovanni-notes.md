@@ -22,12 +22,12 @@ He showed me what sensitivity analysis is, and there's a specific process for it
   - If so, or whatever the third uncertainty is, how do we do sensitivity analysis on this third sensitivity?
   - Motivation: Information about this third uncertainty would change the tree
 
-![](https://github.com/bliutwo/ta-question-notes/blob/master/aversion-graph.png)
-
 ### Concerning "plot symmetrically around zero"
 
 #### His answer:
 - Figure 12.10 is exactly what we're looking for.
+![](https://github.com/bliutwo/ta-question-notes/blob/master/aversion-graph.png)
+
 
 #### Original question:
 - What do the words **"plot symmetrically around zero"** mean? Refer to graph in book, *Figure 12.11*.
