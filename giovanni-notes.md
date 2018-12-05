@@ -1,3 +1,23 @@
+# Wednesday Office Hours
+
+## Our questions:
+
+### Concerning the Third Uncertainty
+
+- We know that Rain and Mold are two of the three uncertainties, but we're not sure what the third one is:
+  - Our guess is that **the varying accuracy of the detector** is the third uncertainty.
+  - If so, or whatever the third uncertainty is, how do we do sensitivity analysis on this third sensitivity?
+
+### Concerning "plot symmetrically around zero"
+- What do the words **plot symmetrically around zero"** mean? Refer to graph in book, *Figure 12.11*.
+- Is the formula on 93/110 on "UtilityProbabilisticDominancetoWebsite" the one we want to use to calculate this sensitivity?
+
+
+
+
+
+
+
 # Concerning the "Updated Probability"
 
 **Caveat**: So although I'm a little lost here, Giovanni pointed me to specific things. Hopefully me sending this to you all will help the brains go to the right direction:
