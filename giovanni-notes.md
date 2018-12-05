@@ -2,6 +2,15 @@
 
 ## New question:
 
+### His answer:
+
+- Excel should be set up as such:
+  - change risk tolerance (ro) -> change all other values
+- ro (risk tolerance), gamma (risk aversion)
+- ro = 1 / gamma
+
+### Original question:
+
 - Formula / how to calculate the following?
   - gamma (risk-aversion coefficient) -> CE
   - P(event) -> CE
