@@ -6,7 +6,7 @@
 
 #### His answer:
 
-He showed me what sensitivity analysis is, and there's a specific process for it, and what it means:
+He showed me what sensitivity analysis is, that there's a specific process for it, and what it means:
 - It's basically plotting probabilities of your event (x-axis) to certain equivalents ($, y-axis)
 - He said we should select more than three variables/events (rain, mold, accuracy of detector, etc.) and "hammer out" tables in excel: 
   - That is, find out **which variables/events** are "the most interesting":
