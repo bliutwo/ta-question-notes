@@ -13,7 +13,7 @@ He showed me what sensitivity analysis is, and there's a specific process for it
     - Which variables / events change what the decision becomes, the most?
 - Possible follow up question (that we might already know the answer to): How exactly do you know the CE given *P(event (rain, mold, etc.))*?
 
-!(https://github.com/bliutwo/ta-question-notes/blob/master/giovanni-drawing.png)
+![](https://github.com/bliutwo/ta-question-notes/blob/master/giovanni-drawing.png)
 
 #### Original question:
 
@@ -22,7 +22,7 @@ He showed me what sensitivity analysis is, and there's a specific process for it
   - If so, or whatever the third uncertainty is, how do we do sensitivity analysis on this third sensitivity?
   - Motivation: Information about this third uncertainty would change the tree
 
-!(https://github.com/bliutwo/ta-question-notes/blob/master/aversion-graph.png)
+![](https://github.com/bliutwo/ta-question-notes/blob/master/aversion-graph.png)
 
 ### Concerning "plot symmetrically around zero"
 
