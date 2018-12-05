@@ -10,7 +10,7 @@
   - Motivation: Information about this third uncertainty would change the tree
 
 ### Concerning "plot symmetrically around zero"
-- What do the words **plot symmetrically around zero"** mean? Refer to graph in book, *Figure 12.11*.
+- What do the words **"plot symmetrically around zero"** mean? Refer to graph in book, *Figure 12.11*.
 - Is the formula on 93/110 on "UtilityProbabilisticDominancetoWebsite" the one we want to use to calculate this sensitivity?
 
 
