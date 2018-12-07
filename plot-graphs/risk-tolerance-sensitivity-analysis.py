@@ -44,6 +44,9 @@ y = -1 * (np.log(1-cool)) / x
 plt.plot(x, y, label = "Harvest") 
 
 plt.locator_params(nbins=4)
+# plt.grid(True, which='both')
+plt.axhline(y=0, color='k')
+plt.axvline(x=0, color='k')
   
 # naming the x axis 
 plt.xlabel('Risk-Aversion Coefficient (1/$)') 
